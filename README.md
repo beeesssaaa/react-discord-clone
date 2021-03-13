@@ -1,3 +1,15 @@
+# react-discord-clone
+Tried awesome React tutorial on youtube
+
+
+[🔴 Build a Discord clone with REACT.JS for beginners! (With REDUX)](https://www.youtube.com/watch?v=zc1loX80TX8)
+
+- React
+- Redux
+- Firebase
+    - Cloud Firestore (DB)
+        - Set your `firebaseConfig` in `firebase.js`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
